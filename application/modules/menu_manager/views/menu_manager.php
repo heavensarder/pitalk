@@ -55,7 +55,7 @@
                                 <div class="input-group">
                                     <input type="text" class="form-control item-menu required" name="text" id="name" data-validation="name" style="width: 160px;">
                                     <div class="input-group-append" title="<?php echo $this->lang->line('Choose icon color'); ?>" id="color-picker">
-                                        <input type="color" name="color" id="color" class="form-control item-menu no_radius" style="width: 50px;" value="#0D8BF1">
+                                        <input type="color" name="color" id="color" class="form-control item-menu no_radius" style="width: 50px;" value="#00ADE7">
                                     </div>
                                     <div class="input-group-btn" id="icon-picker">
                                         <button type="button" id="myEditor_icon" class="btn btn-secondary icon-btn" data-iconset="fontawesome"></button>

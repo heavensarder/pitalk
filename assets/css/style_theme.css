@@ -1325,11 +1325,11 @@ h6 .badge {
   background-color: var(--blue);
   border-color: var(--blue); }
   .btn-primary:focus, .btn-primary.disabled:focus {
-    background-color: #394eea !important; }
+    background-color: #2F384E !important; }
     .btn-primary:focus:active, .btn-primary.disabled:focus:active {
-      background-color: #394eea !important; }
+      background-color: #2F384E !important; }
   .btn-primary:active, .btn-primary:hover, .btn-primary.disabled:active, .btn-primary.disabled:hover {
-    background-color: #394eea !important; }
+    background-color: #2F384E !important; }
 
 .btn-outline-primary, .btn-outline-primary.disabled {
   border-color: var(--blue);

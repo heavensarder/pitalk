@@ -104,7 +104,7 @@
 
   .settings_block .card .card-body {padding: 20px 0 20px 5px !important;}
   .settings_block .card {box-shadow: none !important;border: dashed 1px #e9e9e9 !important;}
-  .settings_block .block-button {padding: 2px 5px;font-size: 10px !important;border:.5px dashed #0d8bf1 !important;margin:0 1px !important; }
+  .settings_block .block-button {padding: 2px 5px;font-size: 10px !important;border:.5px dashed #00ADE7 !important;margin:0 1px !important; }
   .settings_block .block-button i { font-size: 11px !important;}
   .settings_block .block-button:hover { text-decoration: none !important;}
   .settings_block .card.card-large-icons.card-condensed .card-icon { width:60px !important;}

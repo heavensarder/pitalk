@@ -1333,11 +1333,11 @@ h6 .badge {
   background-color: var(--blue);
   border-color: var(--blue); }
   .btn-primary:focus, .btn-primary.disabled:focus {
-    background-color: #394eea !important; }
+    background-color: #2F384E !important; }
     .btn-primary:focus:active, .btn-primary.disabled:focus:active {
-      background-color: #394eea !important; }
+      background-color: #2F384E !important; }
   .btn-primary:active, .btn-primary:hover, .btn-primary.disabled:active, .btn-primary.disabled:hover {
-    background-color: #394eea !important; }
+    background-color: #2F384E !important; }
 
 .btn-outline-primary, .btn-outline-primary.disabled {
   border-color: var(--blue);
@@ -1669,7 +1669,7 @@ h6 .badge {
     padding-bottom: 0 !important;
     height: 100%; }
     .navbar .nav-link.notification-toggle,#collapse_me_plz{
-      color: #0D8BF1;
+      color: #00ADE7;
     }
     .navbar .nav-link.nav-link-lg div {
       margin-top: 3px; }

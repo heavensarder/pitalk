@@ -686,10 +686,10 @@ if(!empty($current_store_data) && !empty($store_data))
           label: '<?php echo $this->lang->line("Earning"); ?>',
           data: <?php echo json_encode(array_values($earning_chart_values)); ?>,
           borderWidth: 3,
-          borderColor: '#0D8BF1',
+          borderColor: '#00ADE7',
           backgroundColor: 'transparent',
-          pointBackgroundColor: '#0D8BF1',
-          pointBorderColor: '#0D8BF1',
+          pointBackgroundColor: '#00ADE7',
+          pointBorderColor: '#00ADE7',
           pointRadius: 3
         }]
       },

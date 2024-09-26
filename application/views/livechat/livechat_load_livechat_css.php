@@ -168,7 +168,7 @@ html,body{overflow-x: hidden;}
   max-width:450px !important;
   border:1px dashed #ccc;
   background-color: rgba(222,227,230,.4196078431372549);
-  color: #0d8bf1;
+  color: #00ADE7;
   text-align: center;
   padding: 5px 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.03);

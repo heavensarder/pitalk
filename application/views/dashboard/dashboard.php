@@ -564,7 +564,7 @@ $month_name_array = array(
         data:  <?php echo json_encode(array_values(array_slice($total_subscribers, -6, 6, true)))?>,
         backgroundColor: 'transparent',
         borderWidth: 2.5,
-        borderColor: '#0D8BF1',
+        borderColor: '#00ADE7',
         pointBorderWidth: 0,
         pointBorderColor: 'transparent',
         pointRadius: 3,
@@ -627,7 +627,7 @@ $month_name_array = array(
         backgroundColor: 'transparent',
         borderWidth: 2.5,
         // borderColor: '#FC427B',
-        borderColor: '#0D8BF1',
+        borderColor: '#00ADE7',
         pointBorderWidth: 0,
         pointBorderColor: 'transparent',
         pointRadius: 3,
@@ -1081,7 +1081,7 @@ $month_name_array = array(
   var only_values = <?php echo json_encode(array_values(isset($subscribers_source_info) ? $subscribers_source_info : array())); ?>;
 
   // var bg_linear_gradient = ["","#C82372","#911670","#5A1A81","#340F70","#F47D6D"];
-  var bg_linear_gradient = ["orange","#53a164","#5A1A81","#0dcde1","#0D8BF1","#FC427B"];
+  var bg_linear_gradient = ["orange","#53a164","#5A1A81","#0dcde1","#00ADE7","#FC427B"];
 
   var social_network_shared_chart_data = {
     type: 'doughnut',
